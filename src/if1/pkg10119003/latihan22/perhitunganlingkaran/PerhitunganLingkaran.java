@@ -65,6 +65,7 @@ public class PerhitunganLingkaran {
         double jariJari = data.hitungJariJariLingkaran(luas);
         double keliling = data.kelilingLingkaran(jariJari);
         tampilHasil(luas,jariJari,keliling);
+        System.out.println("Developed by : Ivan Faathirza");
     }
     
 }
